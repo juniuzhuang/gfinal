@@ -1,6 +1,6 @@
 ## gfinal
-####基于开源grpc快速开发的分布式服务治理框架,快速帮助企业构建高性能的rpc服务，以及整合springcloud生态，做到快速构建服务，服务注册和发现，安全，服务跟踪等相关的服务治理。
-####`1,能够接入到 eureka，nacos 实现动态注册和客服端服务发现。`
-####`2,基于注解的方式注入服务到spring ioc容器，让开发者方便调用自己的服务。`
-####3`和springboot2x进行整合，快速配置gfinal所需要的组件，做到少量配置即可开发业务代码`
+#### Distributed service governance framework based on open source GRPC rapid development can quickly help enterprises to build high-performance RPC services, and integrate springcloud ecology to achieve rapid construction of services, service registration and discovery, security, service tracking and other related service governance.
+#### 1. Able to access eureka and nacos to realize dynamic registration and customer service discovery.
+#### 2. Annotation-based injection of services into the spring ioc container makes it easy for developers to invoke their own services.
+#### 3. Springboot2x integration, fast configuration gfinal required components, do a small amount of configuration can develop business code
 
