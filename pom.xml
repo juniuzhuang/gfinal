@@ -6,6 +6,11 @@
     <groupId>com.lonewolf</groupId>
     <artifactId>gfinal</artifactId>
     <version>1.0.0</version>
+    <modules>
+        <module>core</module>
+        <module>client</module>
+        <module>server</module>
+    </modules>
     <packaging>pom</packaging>
     <description>gfinal project for grpc</description>
 
