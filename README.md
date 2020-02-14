@@ -4,4 +4,5 @@
 #### 2. Annotation-based injection of services into the spring ioc container makes it easy for developers to invoke their own services.
 #### 3. Springboot2x integration, fast configuration gfinal required components, do a small amount of configuration can develop business code
 
-1，第一个功能。
+1，第一个功能。 
+修复一个bug
